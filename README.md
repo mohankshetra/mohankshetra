@@ -1,17 +1,18 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Initializing+Profile...;Access+Granted+✔;Welcome+to+Mohankshetra's+Terminal;Full+Stack+Developer;VLSI+Explorer&center=true&width=600&height=50&color=00FF00&vCenter=true&size=22">
 </p>
-> Undergraduate Student  
-> Web Developer  
-> VLSI & UVM Learner  
-> Passionate about building cool tech 
-html  css  javascript  react  nodejs  git  github  c
-I am currently learning Full Stack Development and exploring VLSI Design.  
-I enjoy solving problems and building real-world applications.  
-My goal is to become a skilled Software + VLSI Engineer.
-[✔] Secrets App (Password Protected Page)  
-[✔] React Counter App  
-[✔] Drum Kit Web App  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Web+Developer;⚡+VLSI+Enthusiast;💻+Full+Stack+Learner;🔥+Building+Cool+Projects&center=true&width=600&height=50&color=00F7FF&vCenter=true&size=24">
+</p>
+<p align="center">
+✨ Passionate about coding & problem solving <br>
+💻 Learning React, Node.js & UVM <br>
+🔬 Exploring VLSI Design <br>
+🎯 Goal: Software + VLSI Engineer
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,Express,java,blockchain,mysql,mongodb,nosql,nodejs,git,github,intelligia,vscode,c">
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohankshetra&show_icons=true&theme=chartreuse-dark&title_color=00FF00&icon_color=00FF00&text_color=00FF00&bg_color=000000" />
 </p>
