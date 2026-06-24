@@ -2,13 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Initializing+Profile...;Access+Granted+✔;Welcome+to+Mohankshetra's+Terminal;Full+Stack+Developer;VLSI+Explorer&center=true&width=600&height=50&color=00FF00&vCenter=true&size=22">
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Web+Developer;⚡+VLSI+Enthusiast;💻+Full+Stack+Learner;🔥+Building+Cool+Projects&center=true&width=600&height=50&color=00F7FF&vCenter=true&size=24">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Web+Developer;⚡java+Full+Stack;💻+Full+Stack+Learner;🔥+Building+Cool+Projects&center=true&width=600&height=50&color=00F7FF&vCenter=true&size=24">
 </p>
 <p align="center">
 ✨ Passionate about coding & problem solving <br>
-💻 Learning React, Node.js & UVM <br>
-🔬 Exploring VLSI Design <br>
-🎯 Goal: Software + VLSI Engineer
+💻 Learning React, Node.js.java,Springboot,Hibernate,Kafka,Reddis <br>
+🎯 Goal: Software  Engineer
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,Express,java,blockchain,mysql,mongodb,nosql,nodejs,git,github,intelligia,vscode,c">
