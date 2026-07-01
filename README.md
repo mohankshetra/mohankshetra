@@ -10,7 +10,7 @@
 🎯 Goal: Software  Engineer
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,express,java,spring,mysql,mongodb,nosql,nodejs,git,github,intelligia,vscode,c">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,express,java,spring,maven,hibernate,bootstrap,mysql,mongodb,redis,firebase,nodejs,git,github,intelligia,vscode,c,docker,kubernetes,aws,gcp,azure,jenkins">
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohankshetra&show_icons=true&theme=chartreuse-dark&title_color=00FF00&icon_color=00FF00&text_color=00FF00&bg_color=000000" />
